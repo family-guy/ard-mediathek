@@ -1,0 +1,65 @@
+{
+  "das-erste": {
+    "id": "208"
+  },
+  "br": {
+    "id": "2224"
+  },
+  "hr": {
+    "id": "5884"
+  },
+  "kika": {
+    "id": "5886"
+  },
+  "mdr-fernsehen": {
+    "id": "5882"
+  },
+  "mdr-thuringen": {
+    "id": "1386988"
+  },
+  "mdr-sachsen-anhalt": {
+    "id": "1386898"
+  },
+  "mdr-sachsen": {
+    "id": "1386804"
+  },
+  "ndr": {
+    "id": "5906"
+  },
+  "rb": {
+    "id": "5898"
+  },
+  "rbb-fernsehen": {
+    "id": "5874"
+  },
+  "rbb-fernsehen-brandenburg": {
+    "id": "21518356"
+  },
+  "rbb-fernsehen-berlin": {
+    "id": "21518358"
+  },
+  "sr": {
+    "id": "5870"
+  },
+  "swr-fernsehen": {
+    "id": "5310"
+  },
+  "swr-rheinland-pflaz": {
+    "id": "5872"
+  },
+  "swr-baden-wurttemberg": {
+    "id": "5904"
+  },
+  "wdr": {
+    "id": "5902"
+  },
+  "tagesschau24": {
+    "id": "5878"
+  },
+  "ard-alpha": {
+    "id": "5868"
+  },
+  "one": {
+    "id": "673348"
+  }
+}
